@@ -1,11 +1,9 @@
-.background {
+#background {
     background-color: rgb(233, 230, 230);
     margin-left: 200px;
-    margin-right: 200px;
+    margin-right: 500px;
 }
 
-.row {
-    margin-left: 70px;
-    margin-right: 70px;
-    
+#kok {
+width: 60px;
 }
