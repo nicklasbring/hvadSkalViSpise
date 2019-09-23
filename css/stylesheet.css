@@ -1,7 +1,18 @@
-#background {
-    background-color: rgb(233, 230, 230);
-    margin-left: 200px;
-    margin-right: 500px;
+body {
+    background-color: white;
+}
+
+.white-bg {
+    background: rgb(233, 230, 230);
+}
+
+.container {
+    max-width: 900px;
+}
+
+.fullheight {
+    height: 100vh;
+    padding: 50px 25px;
 }
 
 #kok {
